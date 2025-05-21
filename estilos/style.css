@@ -97,6 +97,7 @@ div.campo > input:focus-within {
 
 #teste::before {
     content: '\2705';
+    padding-right: 0.5%;
 }
 
 form > input[type=submit] {
